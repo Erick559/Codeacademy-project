@@ -1,11 +1,17 @@
 body {
     background-color: black !important;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
 }
 
 .text {
     text-align: center;
-    color: white
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
 }
 
 p {
@@ -15,4 +21,10 @@ p {
 a {
     color: aquamarine;
     font-size: larger;
+}
+
+video {
+    width: 404;
+    height: 720;
+    /* text-align: center; */
 }

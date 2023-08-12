@@ -1,0 +1,18 @@
+body {
+    background-color: black !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.text {
+    text-align: center;
+    color: white
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: lightseagreen;
+    font-size: larger;
+}

@@ -50,5 +50,7 @@ h3 {
     color: white;
 }
 
-
+span {
+    color: gray;
+    text-align: right;
 }
